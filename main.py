@@ -1,2 +1,1 @@
-print("Lab2")
-print("Lab2 - feature two")
+print("Lab2 - final version")
